@@ -1,0 +1,14 @@
+{
+  "name": "cursocypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Pozo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  }
+}
